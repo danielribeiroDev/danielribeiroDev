@@ -28,5 +28,12 @@ I am a Software Engineer and Software Architect with a primary focus on backend 
 ### 📊 GitHub Statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielribeiroDev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
+
+### 📫 Connect with me
+- [LinkedIn](linkedin.com/in/daniel0ribeiro)
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHgxMWszMzhncDZlcHRtcXRjOWZ5ZGM5Zmo4M2gzb2xrYXJsYXdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="600" />
 </div>
