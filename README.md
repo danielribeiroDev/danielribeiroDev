@@ -12,8 +12,8 @@
 
 ### 💻 Current Focus
 
-- 🗡️ Developing **The Bandonas Story**, a realistic medieval RPG, designing scalable systems and worlds.
-- 🧠 Structuring complex software architectures and integrating AI solutions into modern application workflows.
+- Developing **The Bandonas Story**, a realistic medieval RPG, designing scalable systems and worlds.
+- Structuring complex software architectures and integrating AI solutions into modern application workflows.
 
 ---
 
@@ -40,12 +40,13 @@
 
 ---
 
-### 📊 Statistics & Contact
+### Statistics & Contact
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielribeiroDev&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielribeiroDev&theme=radical" alt="GitHub Stats" />
 </div>
 
 <br>
 
+####  Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel0ribeiro)
