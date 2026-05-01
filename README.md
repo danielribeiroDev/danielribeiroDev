@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Daniel.
 
-<!--
-**danielribeiroDev/danielribeiroDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer and Software Architect with a primary focus on backend systems, complemented by solid frontend capabilities. My work spans cloud infrastructure, AI integration (both embedded within products and utilized for code assistance), and game development. 
 
-Here are some ideas to get you started:
+### 💻 Current Focus
+- Developing *The Bandonas Story*, a realistic medieval RPG, designing scalable systems and worlds.
+- Structuring complex software architectures and integrating AI solutions into modern application workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** TypeScript, JavaScript, C++, C#
+- **Backend & Architecture:** Node.js, .NET, System Architecture, API Design
+- **Frontend:** React
+- **Game Development:** Unreal Engine 5, Blueprints
+- **DevOps & Cloud:** Docker, General Cloud Infrastructure 
+- **AI:** LLM integrations, AI-embedded products, AI-assisted development
+
+### 📫 Connect with me
+- [LinkedIn](https://linkedin.com/in/yourprofile)
