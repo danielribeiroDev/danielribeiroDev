@@ -1,10 +1,21 @@
-# Hi, I'm Daniel.
+# Hi, I'm Daniel. 👋
 
-I am a Software Engineer and Software Architect with a primary focus on backend systems, complemented by solid frontend capabilities. My work spans cloud infrastructure, AI integration (both embedded within products and utilized for code assistance), and game development.
+> **Software Engineer & Software Architect** with a primary focus on backend systems, complemented by solid frontend capabilities. My work spans cloud infrastructure, AI integration (both embedded within products and utilized for code assistance), and game development.
+
+<div align="center">
+  <br>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHgxMWszMzhncDZlcHRtcXRjOWZ5ZGM5Zmo4M2gzb2xrYXJsYXdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" />
+  <br><br>
+</div>
+
+---
 
 ### 💻 Current Focus
-- Developing **The Bandonas Story**, a realistic medieval RPG, designing scalable systems and worlds.
-- Structuring complex software architectures and integrating AI solutions into modern application workflows.
+
+- 🗡️ Developing **The Bandonas Story**, a realistic medieval RPG, designing scalable systems and worlds.
+- 🧠 Structuring complex software architectures and integrating AI solutions into modern application workflows.
+
+---
 
 ### 🛠 Tech Stack
 
@@ -23,17 +34,18 @@ I am a Software Engineer and Software Architect with a primary focus on backend 
 **DevOps & Cloud**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-*Other competencies:* System Architecture, API Design, Blueprints, General Cloud Infrastructure, LLM Integrations, AI-Embedded Products.
+<br>
 
-### 📊 GitHub Statistics
+> *Other competencies:* System Architecture, API Design, Blueprints, General Cloud Infrastructure, LLM Integrations, AI-Embedded Products.
+
+---
+
+### 📊 Statistics & Contact
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=danielribeiroDev&show_icons=true&theme=radical&hide_border=true&v=2" alt="GitHub Stats" />
 </div>
 
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel0ribeiro)
+<br>
 
-<div align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHgxMWszMzhncDZlcHRtcXRjOWZ5ZGM5Zmo4M2gzb2xrYXJsYXdrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="400" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel0ribeiro)
