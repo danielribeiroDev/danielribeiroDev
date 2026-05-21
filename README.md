@@ -45,7 +45,7 @@
 
 ### Awards & Extracurriculars
 <div align="left">
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2024&company=Softteck&ranking=2&theme=dark" width="100" />
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2024&company=softtek&ranking=2&theme=dark" width="100" />
 </div>
 
 <br>
