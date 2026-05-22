@@ -53,14 +53,3 @@
 </div>
 
 <br>
-
-### Statistics & Contact
-
-<div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danielribeiroDev&theme=radical" alt="GitHub Stats" />
-</div>
-
-<br>
-
-####  Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel0ribeiro)
