@@ -44,12 +44,6 @@
 ---
 
 ### Awards & Extracurriculars
-<div style="display: inline-block; width: 150px; text-align: center;">
-  <img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2024&company=softtek&ranking=2&theme=light" width="150" />
-  <br />
-  <a href="https://github.com/danielribeiroDev/DAV-E">
-        <img src="https://img.shields.io/badge/View%20project-c40747?style=flat-square&logo=github&logoColor=white" />
-      </a>
-</div>
+<img src="https://fiap-achievements.vercel.app/api/badge?badge=challenge&year=2024&company=softtek&ranking=2&theme=light" width="150" />&nbsp;&nbsp;<a href="https://www.credly.com/badges/7037dcb0-4d12-43f1-b8c9-31ef0f91430b/public_url"><img src="https://images.credly.com/size/150x150/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" /></a> &nbsp;&nbsp;<a href="https://www.credly.com/badges/61bebcba-87b2-4dab-b631-74c63c7caa93/public_url"><img src="https://images.credly.com/size/150x150/images/0c1c6eed-818c-4f78-bfaa-7ea8704c863a/image.png" width="150" /></a>
 
 <br>
